@@ -14,7 +14,7 @@ This repository contains an implementation of a neural network from scratch, in 
 
 ## Overview
 
-Explain the high-level purpose and goals of your project. Provide context on why you are creating a neural network from scratch and what sets your project apart.
+
 
 ## Features
 
@@ -38,20 +38,15 @@ pip install -r requirements.txt
 
 ## Usage
 
-Explain how users can use your project, including code examples and usage instructions. Provide information on how to train and test a neural network using your code.
 
-```python
-# Example code for training a neural network
-python train.py --options
-```
 
 ## Examples
 
-Show some example use cases or applications of your project. Include sample inputs and expected outputs. Visualizations or plots can also be beneficial.
+
 
 ## Contributing
 
-Explain how others can contribute to your project, whether through bug reporting, feature requests, or code contributions. Provide guidelines for creating pull requests and contributing to the project.
+
 
 ## License
 
@@ -59,10 +54,11 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use, mod
 
 ## Acknowledgments
 
-Mention any external resources, libraries, or research papers that inspired or assisted in your project development.
+I hope to get the theoretical basis to develop complex ML models;
 
 ## Contact
 
-- Your Name
-- Your Email
-- Project Link: [https://github.com/yourusername/your-repo](https://github.com/yourusername/your-repo)
+- Mikeias Oliveira
+- Linkedin: [https://linkedin.com/in/mikeias-d-s-o](https://linkedin.com/in/mikeias-d-s-o)
+- [mikeias.d.s.o@gmail.com](malito:mikeias.d.s.o@gmail.com)
+- Project Link: [https://github.com/xpcosmos/NN-from-scratch](https://github.com/xpcosmos/NN-from-scratch)
